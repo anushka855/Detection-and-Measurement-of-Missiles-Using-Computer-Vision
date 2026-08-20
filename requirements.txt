@@ -1,0 +1,9 @@
+torch
+torchvision
+opencv-python
+pyyaml
+matplotlib
+numpy
+scikit-learn
+scipy
+detectron2 @ git+https://github.com/facebookresearch/detectron2.git
