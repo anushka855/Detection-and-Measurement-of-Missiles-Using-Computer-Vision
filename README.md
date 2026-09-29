@@ -27,12 +27,6 @@ missile-parts-segmentation-and-measurement-Computer-Vision-Model/
 ```
 
 
-## 🏛️ Acknowledgements
 
-This project was developed as part of an internship at:
-
-**Armament Research & Development Establishment (ARDE), DRDO – Pune, India**
-
-Supervised by research and engineering teams at DRDO.
 
 ---
